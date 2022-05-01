@@ -10,5 +10,3 @@ seaborn==0.11.2
 spacy==3.2.4
 streamlit==1.8.0
 wordcloud==1.8.1
-[global]
-dataFrameSerialization = "legacy"
