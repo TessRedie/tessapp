@@ -74,7 +74,6 @@ client = pymongo.MongoClient('mongodb://localhost:27017/')
 db = client["streamlipro"]
 
 #from sklearn.datasets import WineQT
-
 header = st.container()
 dataset = st.container()
 eda = st.container()
