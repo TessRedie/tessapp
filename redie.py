@@ -64,7 +64,7 @@ from sklearn.metrics import classification_report, confusion_matrix, plot_confus
 from sklearn.metrics import plot_confusion_matrix, plot_roc_curve, plot_precision_recall_curve
 from sklearn.preprocessing import FunctionTransformer
 
-import pymongo
+#import pymongo
 from pymongo import MongoClient
 
 
